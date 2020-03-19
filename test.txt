@@ -1,0 +1,8 @@
+자 처음 작업
+int main(){
+  int a;
+ int b;
+int c;
+int d;
+
+}
